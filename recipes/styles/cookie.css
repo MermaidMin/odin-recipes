@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+}
+p, ul, ol {
+    text-align: center;
+    font-family: 'Arimo', sans-serif;
+}   
+.cookies {
+    margin:auto;
+    display:block;
+}
+body {
+    background-color: #dea5a4;
+}
+.return {
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    color:black;
+}
+a:hover{
+    text-shadow: 2px 2px 5px grey;}
